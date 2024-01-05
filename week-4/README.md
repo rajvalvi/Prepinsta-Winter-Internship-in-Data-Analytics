@@ -3,11 +3,11 @@
 Week 4 of the PrepInsta Winter Internship primarily focused on data visualization using Python libraries (Pandas, Numpy, Seaborn, and Matplotlib). The objective was to recreate a visualization akin to Hans Rosling's motion graph, delving into global health indicators, life expectancy, fertility rates, and population trends from 1960 to 2016.
 
 ## Project Highlights
--Data Collection & Preprocessing:
+- Data Collection & Preprocessing:
 
-  -Gathered and consolidated datasets comprising life expectancy, fertility rates, and country population from 1960 to 2016.
-  -Conducted data cleaning, handled missing values, and ensured data consistency.
-  -Visualization Tasks:
+  - Gathered and consolidated datasets comprising life expectancy, fertility rates, and country population from 1960 to 2016.
+  - Conducted data cleaning, handled missing values, and ensured data consistency.
+  - Visualization Tasks:
 
 Reproduced Rosling's animation to showcase life expectancy, fertility rates, and population trends across countries and regions.
 Employed scatter plots, line charts, and distribution graphs to explore various data facets.
